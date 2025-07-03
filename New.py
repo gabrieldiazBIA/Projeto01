@@ -1,2 +1,2 @@
-print(Mensagem aleatoria)
-
+print("Mensagem aleatoria")
+print("Nova funcionalidade adicionada")
